@@ -1,4 +1,4 @@
-/*Joe_Hollon
+/*
  * Cis_2212, Due_Wednesday_Sept_5_2018
  * Weekly_Payroll
  * Aug_30_2018
